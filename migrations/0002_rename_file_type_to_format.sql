@@ -1,0 +1,1 @@
+ALTER TABLE contents RENAME COLUMN fileType TO fileFormat;
