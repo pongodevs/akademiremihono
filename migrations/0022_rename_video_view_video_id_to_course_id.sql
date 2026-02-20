@@ -1,0 +1,1 @@
+ALTER TABLE videoViews RENAME COLUMN videoId TO courseId;

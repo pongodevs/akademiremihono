@@ -1,0 +1,3 @@
+ALTER TABLE comments DROP COLUMN replyCount;
+
+ALTER TABLE comments ADD COLUMN replyCount INTEGER DEFAULT 0;

@@ -1,0 +1,4 @@
+ALTER TABLE courses ADD COLUMN likeCount INTEGER;
+ALTER TABLE courses ADD COLUMN dislikeCount INTEGER;
+ALTER TABLE courses ADD COLUMN viewCount INTEGER;
+ALTER TABLE courses ADD COLUMN commentCount INTEGER;
